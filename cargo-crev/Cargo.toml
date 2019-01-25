@@ -33,3 +33,7 @@ dirs = "1"
 atty = "0.2"
 term = "0.5"
 tokei = "8"
+cargo-geiger = { git = "https://github.com/anderejd/cargo-geiger/", rev= "c891bdd10ac84adaf5cc99de9f8efae64ac4e10b" }
+walkdir = "*"
+resiter = "*"
+insideout = "*"
